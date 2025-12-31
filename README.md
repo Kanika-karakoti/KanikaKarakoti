@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Kanika-karakoti/KanikaKarakoti/blob/main/ChatGPT%20Image%20Dec%2031%2C%202025%2C%2002_17_17%20PM.png)
 
 <h1 align="center">Hi 👋, I'm Kanika Karakoti</h1>
-<h3 align="center">Aspiring Java Developer | Backend-Focused Tech Student</h3>
+<h3 align="center">Final-year Student | Aspiring Java Developer | Backend-Focused Tech Student</h3>
 
 <img align="right" alt="Coding" width="380px" src="https://t3.ftcdn.net/jpg/04/47/03/66/360_F_447036650_BwtW5SmAIxgdJxJunRvkiaysLkjgDAFB.jpg"/>
 
